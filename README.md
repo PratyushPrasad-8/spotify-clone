@@ -5,7 +5,7 @@
 A fully responsive Spotify web application clone built using **HTML** and **CSS**. This project mimics the UI of the Spotify app, focusing on the frontend design and layout.
 
 ## 🚀 Live Demo
-Check out the [Live Demo](#) of the project.
+Check out the [Live Demo](https://pratyushprasad-8.github.io/spotify-clone/) of the project.
 
 ## 🛠️ Technology Stack
 - **HTML5**: Structure and layout of the web pages.
